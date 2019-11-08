@@ -40,6 +40,7 @@ Insert One Data to colleciton 'hk'
 # environment variable
 
 | Env var | Description |
+| --- | --- |
 | SOURCE_API_URL | api url of openweathermap.org |
 | SOURCE_API_LOCATION_ID | openweathermap.org's location ID |
 | SOURCE_API_APIKEY | you need get an openweathermap.org account and you will have the api key |
